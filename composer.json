@@ -1,0 +1,11 @@
+{
+    "name": "parth-vadgama/xml-to-json",
+    "description": "This package convert your xml to PHP array.",
+    "authors": [
+        {
+            "name": "Parth Gajjar",
+            "email": "gajjar.parth1811@gmail.com"
+        }
+    ],
+    "require": {}
+}
